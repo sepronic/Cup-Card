@@ -38,18 +38,18 @@
     padding: 58px;
 }
 
-.cup-price {
+.cup_price {
     font-size: 70px;
     font-family: 'MisoBold'; 
     color: #02995B;
 }
 
-.cup-name {
+.cup_name {
     font-size: 56px;
     font-family: 'Miso'; 
 }
 
-.cup-description {
+.cup_description {
     font-size: 20px;
     font-family: 'MisoLight'; 
     text-align: center;
