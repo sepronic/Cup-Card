@@ -54,21 +54,3 @@
     font-family: 'MisoLight'; 
     text-align: center;
 }
-
-@font-face {
-    font-family: 'MisoLight';
-    font-style: light; 
-    src: url(../fonts/miso-light.otf) format('truetype');
-}
-
-@font-face {
-    font-family: 'MisoBold';
-    font-style: bold; 
-    src: url(../fonts/miso-bold.otf) format('truetype');
-}
-
-@font-face {
-    font-family: 'Miso';
-    font-style: normal; 
-    src: url(../fonts/miso.otf) format('truetype');
-}
